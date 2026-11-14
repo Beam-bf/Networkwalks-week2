@@ -202,11 +202,11 @@ The following screenshots document the tools and results obtained during the pra
 
 ### 8.1 WHOIS — Domain Registration Information
 
-![WHOIS Results](screenshots/whois.png)
+![WHOIS Results](screenshots/whois.jpg)
 
 ### 8.2 WhatWeb — Website Technology Identification
 
-![WhatWeb Results](screenshots/whatweb.png)
+![WhatWeb Results](screenshots/whatweb.jpg)
 
 ### 8.3 Nslookup — Domain Name Resolution
 
@@ -214,27 +214,27 @@ The following screenshots document the tools and results obtained during the pra
 
 ### 8.4 Curl — HTTP Response Headers
 
-![Curl Results](screenshots/curl.png)
+![Curl Results](screenshots/curl.jpg)
 
 ### 8.5 Wafw00f — Web Application Firewall Detection
 
-![Wafw00f Results](screenshots/wafw00f.png)
+![Wafw00f Results](screenshots/wafw00f.jpg)
 
 ### 8.6 DNSRecon — DNS Record Enumeration
 
-![DNSRecon Results](screenshots/dnsrecon.png)
+![DNSRecon Results](screenshots/dnsrecon.jpg)
 
 ### 8.7 Nmap/Npcap Installation
 
-![Npcap Installation](screenshots/npcap-installation.png)
+![Npcap Installation](screenshots/npcap-installation.jpg)
 
 ### 8.8 Zenmap — Host Discovery
 
-![Zenmap Ping Scan](screenshots/zenmap-scan.png)
+![Zenmap Ping Scan](screenshots/zenmap-scan.jpg)
 
 ### 8.9 Zenmap — Network Topology
 
-![Zenmap Network Topology](screenshots/zenmap-topology.png)
+![Zenmap Network Topology](screenshots/zenmap-topology.jpg)
 
 ---
 
