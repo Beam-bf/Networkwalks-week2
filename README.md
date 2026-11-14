@@ -202,11 +202,11 @@ The following screenshots document the tools and results obtained during the pra
 
 ### 8.1 WHOIS — Domain Registration Information
 
-![WHOIS Results](screenshots/whois.jpg)
+![WHOIS Results](screenshots/whois.png)
 
 ### 8.2 WhatWeb — Website Technology Identification
 
-![WhatWeb Results](screenshots/whatweb.jpg)
+![WhatWeb Results](screenshots/whatweb.png)
 
 ### 8.3 Nslookup — Domain Name Resolution
 
